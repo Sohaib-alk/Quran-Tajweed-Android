@@ -2,6 +2,8 @@
 
 > **100% Offline • Material 3 • 604 Madinah Mushaf Fonts • Arabic & English (RTL / LTR)**
 
+[![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/app/?id=quran-tajweed-android)
+
 ---
 
 ## العربية
@@ -17,7 +19,7 @@
 - **إبقاء الشاشة مضاءة:** تبقى الشاشة مضاءة تلقائياً أثناء التلاوة.
 
 ### التحميل والتثبيت
-يمكنك تحميل ملف التطبيق مباشرة من هذا المستودع أو من صفحة الإصدارات (**Releases**):
+يمكنك تحميل التطبيق من **Orion Store** عبر الشارة أعلاه، أو مباشرة من هذا المستودع / صفحة الإصدارات (**Releases**):
 - الملف: **[Quran-Tajweed.apk](./Quran-Tajweed.apk)** (الإصدار `2.0.0` • مضغوط ومحسن بـ R8)
 
 ### البناء من المصدر
@@ -41,7 +43,7 @@ An open-source, **100% offline** Android application (**Quran Tajweed**) for rea
 - **Always-On Screen:** Keeps the display awake automatically while reading.
 
 ### Download & Install
-Download the APK directly from this repository or from the **Releases** tab:
+Download the app via **Orion Store** using the badge above, or grab the APK directly from this repository / the **Releases** tab:
 - APK: **[Quran-Tajweed.apk](./Quran-Tajweed.apk)** (`v2.0.0` • R8-shrunk release build)
 
 ### Build from Source
